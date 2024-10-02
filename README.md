@@ -1,7 +1,8 @@
 # purify
 
 A new Flutter project.
-
+## About this Project
+aplikasi name RePLATE is mobile aplication for ordering food (Food Waste)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
